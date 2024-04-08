@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/events/scheduler/index.js",
+      "schedule": "00 00 * * 0,3"
+    }
+  ]
+}

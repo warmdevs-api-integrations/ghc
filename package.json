@@ -1,0 +1,12 @@
+{
+  "name": "new-project",
+  "author": "germanhorsecenter",
+  "publish": false,
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.80",
+    "lib": "latest"
+  },
+  "devDependencies": {
+    "vercel": "^33.7.0"
+  }
+}
